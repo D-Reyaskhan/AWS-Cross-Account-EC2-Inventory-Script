@@ -9,8 +9,7 @@
 # 1. Define target accounts in "AccountID:AccountName" format
 ACCOUNTS=(
     "111111111111:Production"
-    "222222222222:Development"
-    "090069730324:Adapt2 Solutions"
+    "222222222222: Development"
 )
 
 # 2. Define the regions you want to query
