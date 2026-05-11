@@ -36,7 +36,6 @@ If running in CloudShell, use the Actions -> Download file menu in the top right
 📊 Output Fields
 
 AccountName AccountId Region InstanceName InstanceId InstanceType State PrivateIP PublicIP AZ VMCoreSize MemoryGiB
-Production 111111111111 us-east-1 Web-Server-01 i-0abcd1234efgh5678 t3.medium running 10.0.1.50 203.0.113.5 us-east-1a 2 4.00
 
 💡 Troubleshooting
 ERROR: Could not assume role: Verify that your 12-digit Account ID is correct, the role exists in the target account, and the Trust Policy correctly whitelists the account you are executing the script from.
